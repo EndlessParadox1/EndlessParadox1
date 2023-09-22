@@ -1,9 +1,9 @@
-## I'm Endless Paradox
+## Endless Paradox
 ![](https://img.shields.io/badge/main%20language-c%2B%2B-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/major-network%20and%20database-E95420?logo=ubuntu) 
 
-- I'm a rock music enthusiast.
-- I'm a left-wing communist.
-- I'm a learning to be a full stack developer.
-- I'm also an anime otaku like almost every Chinese people here.
+- A rock music enthusiast.
+- A left-wing communist.
+- Learning to be a full stack developer.
+- Also an anime otaku like almost every Chinese people here.
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true)](https://github.com/EndlessParadox1)
