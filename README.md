@@ -6,5 +6,5 @@
 - Learning to be a full stack developer.
 - Also an anime otaku like almost every Chinese people here.
 
-[![](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true)]
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessParadox1&layout=compact")]
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessParadox1&layout=compact&hide=Assembly)
