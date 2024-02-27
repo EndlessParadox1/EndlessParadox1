@@ -1,5 +1,5 @@
 ## Endless Paradox
-![](https://img.shields.io/badge/main%20language-c%2B%2B-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/major-network%20and%20database-E95420?logo=ubuntu) 
+![](https://img.shields.io/badge/main%20language-Go-00599C?logo=go) ![](https://img.shields.io/badge/major-network%20and%20database-E95420?logo=ubuntu) 
 
 - A rock music enthusiast.
 - A left-wing communist.
