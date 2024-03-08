@@ -3,7 +3,7 @@
 
 - A rock music enthusiast.
 - A left-wing communist.
-- Learning to be a full stack developer.
+- Learning to be a back-end developer.
 - Also an anime otaku like almost every Chinese people here.
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true&line_height=20)
