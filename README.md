@@ -1,6 +1,6 @@
 ## Endless Paradox
 ![main language](https://img.shields.io/badge/main%20language-Go-00599C?logo=go)
-![favorite OS](https://img.shields.io/badge/favorite%20OS-Arch%20linux-1793D1?logo=archlinux)
+![favorite OS](https://img.shields.io/badge/favorite%20OS-Arch%20Linux-1793D1?logo=archlinux)
 
 - A rock music enthusiast.
 - A left-wing communist.
