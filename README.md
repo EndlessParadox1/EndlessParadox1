@@ -4,7 +4,7 @@
 
 - A rock music enthusiast.
 - A left-wing communist.
-- Learning to be a mother-f*cking developer.
+- Learning to be a brain-f*cking developer.
 - Also an anime otaku.
 
 ![Github Datas](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true&line_height=20)
