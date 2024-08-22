@@ -7,5 +7,5 @@
 - Learning to be a brain-f*cking developer.
 - Also an anime otaku.
 
-![Github Data](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessParadox1)
+![Github Data](https://github-readme-stats.vercel.app/api?username=EndlessParadox1&show_icons=true)
